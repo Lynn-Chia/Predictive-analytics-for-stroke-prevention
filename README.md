@@ -14,9 +14,6 @@ The initiative aims to integrate machine learning models into the healthcare sys
 ## Proposed Solutions and Methodology
 The project involves data preprocessing, exploratory data analysis, and application of various predictive modeling techniques. We used SMOTE for addressing class imbalance and tested different models to ensure the highest accuracy and usability in real-world applications.
 
-## Overview
-This repository contains the predictive analytics project focused on stroke prevention, utilizing various machine learning models to predict the risk of stroke. This project is part of BC2407 Analytics 2 at Nanyang Technological University, designed to integrate predictive modeling into healthcare systems for early detection of stroke risks.
-
 ## Machine Learning Models and Analysis Results
 
 ### Models Employed
